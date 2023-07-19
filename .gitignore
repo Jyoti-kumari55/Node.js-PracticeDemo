@@ -1,1 +1,4 @@
 Node_1/node_modules
+MySqlConnection/node_modules
+MySqlConnection/.gitignore
+Node-3/node_modules
